@@ -1,0 +1,97 @@
+---
+title: "Teaching Spring 2020 -- Fall 2023"
+author: "Jeffrey Walker"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Syllabi
+
+[BIO 109](https://www.middleprofessor.com/teaching/bio109/BIO_109_Spring_2022.html){target="_blank"}
+
+# Resources developed for teaching
+
+## Resources developed prior to Spring 2020
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/files/physics_for_biologists/_book/index.html){target="_blank"}.
+
+## Resources developed Spring 2020 -- Fall 2023
+### Explainers
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/bio223-immune-notes.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/bio223-respiratory-notes.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/chemistry.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/diffusion.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/diffusion_II.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/digestion.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+[Physics for Introductory Biology](https://www.middleprofessor.com/teaching/physiology/cell.html){target="_blank"}.
+
+
+
+
